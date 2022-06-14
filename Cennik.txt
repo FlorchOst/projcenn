@@ -1,1 +1,4 @@
-100;165;700;700/900/1100
+<sup>PLN</sup>100;
+<sup>PLN</sup>165;
+<sup>PLN</sup>700;
+<sup>PLN</sup>700<br><sup>PLN</sup>900<br><sup>PLN</sup>1100;
