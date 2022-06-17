@@ -1,4 +1,4 @@
 <sup>PLN</sup>600;
 <sup>PLN</sup>165;
-<sup>PLN</sup>700;
+<sup>PLN</sup>1500;
 <sup>PLN</sup>700<br><sup>PLN</sup>900<br><sup>PLN</sup>1100;
